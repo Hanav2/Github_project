@@ -1,2 +1,2 @@
 understanding how to creat a local reop and push it to remote repo
-practicing pathways
+practicing pathways. we need to know the steps
